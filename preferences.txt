@@ -1,0 +1,6 @@
+1) sport
+2) music
+3) films
+4) travelling
+5) summer
+6) USA, Australia
