@@ -1,6 +1,5 @@
-1) sport
-2) music
-3) films
-4) travelling
-5) summer
-6) USA, Australia
+1) film: "The Great Gatsby"
+2) serial: "Friends"
+4) food: fruits
+5) season: summer
+6) country: Australia
