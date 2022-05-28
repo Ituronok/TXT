@@ -1,1 +1,9 @@
-new bugs
+  project: study
+  issue_type: bug
+  severity: major
+  environment: Windows 10, x64, Google Chrome
+  summary: "The 'create' button is unclickable after filling in all required fields"
+  steps to reproduce: Go to the website...
+  actual result: The 'create' button is active after filling in all required fields
+  expected result: There is no ability to create a new account
+  error type: functional
